@@ -1,0 +1,21 @@
+{
+  "name": "12-sql-emp-tracker",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mrwilkinson1/12-NoSQL-Emp-Tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mrwilkinson1/12-NoSQL-Emp-Tracker/issues"
+  },
+  "homepage": "https://github.com/Mrwilkinson1/12-NoSQL-Emp-Tracker#readme"
+}
